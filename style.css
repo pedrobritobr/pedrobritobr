@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  flex-flow: column nowrap;
+  align-content: center;
+  align-items: center;
+}
+
+#pinned_projects {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.pinned_projects {
+  width: 42vw;
+}
