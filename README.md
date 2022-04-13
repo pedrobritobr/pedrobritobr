@@ -2,8 +2,8 @@
 
   ### My Github Status
 
-  [<img height="180em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=pedrobritobr&show_icons=true&theme=dark&count_private=true"/>](https://github.com/pedrobritobr)
-  [<img height="180em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobritobr&layout=compact&theme=dark"/>](https://github.com/pedrobritobr)
+  [<img height="170em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=pedrobritobr&show_icons=true&theme=dark&count_private=true"/>](https://github.com/pedrobritobr)
+  [<img height="170em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobritobr&layout=compact&theme=dark"/>](https://github.com/pedrobritobr)
 
   #### Pinned projects  
 
