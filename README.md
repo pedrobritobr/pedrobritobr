@@ -7,8 +7,8 @@
 
   #### Pinned projects  
 
-  [<img width="300vw" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=TrybeScheduleNotification-Extension&theme=github_dark"/>](https://github.com/pedrobritobr/TrybeScheduleNotification-Extension)
-  [<img width="300vw" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=pedrobrito.dev&theme=github_dark"/>](https://github.com/pedrobritobr/pedrobrito.dev)
+  [<img width="400vw" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=TrybeScheduleNotification-Extension&theme=github_dark"/>](https://github.com/pedrobritobr/TrybeScheduleNotification-Extension)
+  [<img width="400vw" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=pedrobrito.dev&theme=github_dark"/>](https://github.com/pedrobritobr/pedrobrito.dev)
 
 <!--
 **pedrobritobr/pedrobritobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
