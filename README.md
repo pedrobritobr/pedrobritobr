@@ -5,10 +5,11 @@
 [<img height="210em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=pedrobritobr&show_icons=true&theme=dark&count_private=true"/>](https://github.com/pedrobritobr)
 [<img height="210em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobritobr&layout=compact&theme=dark"/>](https://github.com/pedrobritobr)
 
-#### Pinned projects  
-<div id='pinned_projects'>
+</div>
 
-[<img height="130em" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=TrybeScheduleNotification-Extension&theme=github_dark"/>](https://github.com/pedrobritobr/TrybeScheduleNotification-Extension)
+#### Pinned projects  
+
+  [<img height="130em" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=TrybeScheduleNotification-Extension&theme=github_dark"/>](https://github.com/pedrobritobr/TrybeScheduleNotification-Extension)
 [<img height="130em" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=pedrobrito.dev&theme=github_dark"/>](https://github.com/pedrobritobr/pedrobrito.dev)
 
 <!--
@@ -25,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
