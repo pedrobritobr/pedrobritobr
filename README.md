@@ -1,19 +1,15 @@
-<link href="style.css" rel="stylesheet"></link>
-<header>
+<div align="center">
 
+### My Github Status
 
-### My Github Sataus
-
-[<img class="status" src="https://github-readme-stats.vercel.app/api?username=pedrobritobr&show_icons=true&theme=dark&count_private=true" alt="github stats" height="120em"/>](https://github.com/pedrobritobr)
-[<img class="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobritobr&layout=compact&theme=dark" alt="github stats" height="120em"/>](https://github.com/pedrobritobr)
+[<img height="210em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=pedrobritobr&show_icons=true&theme=dark&count_private=true"/>](https://github.com/pedrobritobr)
+[<img height="210em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobritobr&layout=compact&theme=dark"/>](https://github.com/pedrobritobr)
 
 #### Pinned projects  
 <div id='pinned_projects'>
 
-[<img class="pinned_projects" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=TrybeScheduleNotification-Extension&theme=github_dark" alt="github stats"/>](https://github.com/pedrobritobr/TrybeScheduleNotification-Extension)
-
-[<img class="pinned_projects" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=pedrobrito.dev&theme=github_dark" alt="github stats"/>](https://github.com/pedrobritobr/pedrobrito.dev)
-</div>
+[<img height="130em" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=TrybeScheduleNotification-Extension&theme=github_dark"/>](https://github.com/pedrobritobr/TrybeScheduleNotification-Extension)
+[<img height="130em" alt="github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobritobr&repo=pedrobrito.dev&theme=github_dark"/>](https://github.com/pedrobritobr/pedrobrito.dev)
 
 <!--
 **pedrobritobr/pedrobritobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</header>
+</div>
