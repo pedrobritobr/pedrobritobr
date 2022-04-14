@@ -1,4 +1,16 @@
 <div align="center">
+  <div style="display: inline-block">
+    <img width="40vw" src="./icons/vscode-svgrepo-com.svg">
+    <img width="40vw" src="./icons/typescript-logo-svgrepo-com.svg">
+    <img width="40vw" src="./icons/redux-svgrepo-com.svg">
+    <img width="40vw" src="./icons/react-svgrepo-com.svg">
+    <img width="40vw" src="./icons/python-svgrepo-com.svg">
+    <img width="40vw" src="./icons/nodejs-icon-svgrepo-com.svg">
+    <img width="40vw" src="./icons/mysql-svgrepo-com.svg">
+    <img width="40vw" src="./icons/express-short-svgrepo-com.svg">
+    <img width="40vw" src="./icons/git-svgrepo-com.svg">
+    <img width="40vw" src="./icons/github-white-svgrepo-com.svg">
+  </div>
 
   ### My Github Status
 
